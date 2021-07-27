@@ -11,3 +11,5 @@ Commit#5 During squash Text
 Commit#6 During Squash TExt
 
 Commit#7 During Squash TExt
+
+Commit#8 During Squash TExt
