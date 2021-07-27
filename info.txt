@@ -5,3 +5,11 @@ Commit #2 during squash activity
 Commit # 3 during squash 
 
 Commit #4 During squash
+
+Commit#5 During squash Text
+
+Commit#6 During Squash TExt
+
+Commit#7 During Squash TExt
+
+Commit#8 During Squash TExt
