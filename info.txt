@@ -1,16 +1,16 @@
-This is a critical message that I'm going to ammend into the previous commit along with this new file.
+This is a critical message that im goin to ammend into the previous commit
 
 Commit #2 during squash activity
 
-Commit #3 during squash activity
+Commit # 3 during squash 
 
-Commit #4 during squash activity
+Commit #4 During squash
 
-Commit #5 during squash activity
+Commit#5 During squash Text
 
-Commit #6 during squash activity
+Commit#6 During Squash TExt
 
-Commit #7 during squash activity
+Commit#7 During Squash TExt
 
 Commit #8 during squash activity
 
@@ -31,3 +31,4 @@ Commit #15 - Started rebase dev 2 commit 2
 Commit #16 - This is from dev 2 making a bug fix change
 
 Commit #17 After reseting
+
